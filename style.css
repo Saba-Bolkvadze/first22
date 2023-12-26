@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.section_1 {
+  background-color: rgb(142, 104, 73);
+  height: 950px;
+}
+.inside {
+  color: #ffffff;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  padding: 200px;
+}
+.text {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.home_products {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.img {
+  width: 300px;
+  height: 450px;
+}
+.inside {
+  display: flex;
+  flex-direction: row;
+}
+.nordic_style {
+  font-size: 1.3rem;
+}
+.icons {
+  display: flex;
+  gap: 20px;
+}

@@ -76,3 +76,46 @@
   font-size: 80px;
   margin-top: 40px;
 }
+/* section3 */
+
+.section3 {
+  background-color: burlywood;
+  display: flex;
+  flex-direction: row;
+  height: 650px;
+}
+.main_div {
+  background-color: #ffffff;
+}
+.img_of_section3 {
+  width: 368px;
+  height: 459px;
+}
+.list {
+  line-height: 90px;
+  font-size: 40px;
+  color: white;
+  width: 532px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.list ul {
+  list-style: none;
+  text-align: center;
+}
+.main_div p {
+  margin-left: 20px;
+  font-size: 19px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.main_div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 900px;
+  gap: 70px;
+}
